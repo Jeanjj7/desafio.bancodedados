@@ -2,6 +2,9 @@ import mysql.connector
 from tabulate import tabulate
 from datetime import datetime, timedelta
 
+# use esse no terminal ↓
+# pip install mysql-connector-python
+# pip install tabulate
 
 
 def conectar():
